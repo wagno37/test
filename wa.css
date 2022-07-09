@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+ background-color: white;   
+font-size: 1em;
+font-family:'Trebuchet MS',Helvetica, sans-serif;
+}
+
+.cabecalho{
+    background-color: #f7b600;
+    padding: 15px;
+    text-align: center;
+}
+.logo,.menu{
+    padding: 10px;
+}
+
+h1{
+color: #4e4e4e;
+font-size: 2.5em;
+}
+.branco{
+    color: white;
+}
+
+a:link, a:visited{
+   color: #fff; 
+   padding: 8px 12px;
+}
+
+a:hover{
+    color: #f7b600;
+    background-color: #fff;
+}
+
+a{
+text-decoration: none;
+}
+
+.area-principal{
+width: 920px;
+margin: 0 auto;
+}
+
+.area-postagens{
+width: 660px;
+float: left;
+
+}
+
+.postagem{
+    padding: 20px;
+    padding-bottom: 20px;
+}
+
+.area-lateral{
+width: 240px;
+float: right;
+
+}
+
+.roda-pe{
+text-align: center;
+padding: 15px;
+background-color: #ccc;
+clear: both;
+}
+
+h2{
+    color: #f7b600;
+}
+
+.data-postagens{
+font-size: 0.8em;
+
+}
+
+
+h3{
+background-color: #4e4e4e;
+
+}
